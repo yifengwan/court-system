@@ -15,4 +15,4 @@
 
 - court names (lists scraped from [中国法院网](https://www.chinacourt.org/index.shtml))
 - upper level court for appeal
-- court codes scraped from [China Judgments Online](http://wenshu.court.gov.cn/). One court code may include multiple court names, because (1) changes in administrative boundaries; (2) there are multiple ways to indicate the same court (e.g., 顺义区人民法院, 北京市顺义区人民法院).   
+- court codes scraped from [China Judgments Online](http://wenshu.court.gov.cn/). One court code may include multiple court names, because (1) changes in administrative boundaries and administrative divisions; (2) there are multiple ways to indicate the same court in Chinese (e.g., 民和县人民法院, 民和回族土族自治县人民法院, 青海省民和回族土族自治县人民法院).   
