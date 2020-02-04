@@ -7,4 +7,4 @@
 - intermediate people's courts at the prefecture level
 - primary courts at the county/district level
 
-<img src="court-system.png" width="100">
+<img src="court-system.png" width="200">
